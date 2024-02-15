@@ -2,7 +2,7 @@
     "nodes": [
         {
             "name": "Trinar",
-            "url": "192.168.56.16",
+            "url": "192.168.56.1",
             "port": 11898,
             "ssl": false,
             "cache": false,
